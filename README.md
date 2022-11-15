@@ -1,0 +1,2 @@
+# Pythonic-practice-2
+This repo is for anyone involved in collaboration to strengthen their basic Python skills 
